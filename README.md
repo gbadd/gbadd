@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gbadd
+- 👀 I’m interested in software design and development
+- 🌱 I’m currently on a never ending path of learning
+- 📫 I will be reachable soon
